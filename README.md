@@ -1,2 +1,1 @@
-# Vixirus
-Vixirus documentation
+Documentation coming very soon!
